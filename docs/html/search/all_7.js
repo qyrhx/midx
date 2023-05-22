@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['track_0',['Track',['../classMusicIndexer_1_1Track.html',1,'MusicIndexer::Track'],['../classMusicIndexer_1_1Track.html#a34e3dc0f18d428c666dacbf44acf874d',1,'MusicIndexer::Track::Track()']]]
+  ['name_0',['name',['../classMusicIndexer_1_1Artist.html#a13ef14f1b92ca33e41258fb35f10e9ba',1,'MusicIndexer::Artist']]]
 ];
